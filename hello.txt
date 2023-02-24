@@ -2,3 +2,4 @@ test
 test_hot-fix
 test_github
 test_new1
+test_new2
