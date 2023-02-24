@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-test 
-test1
-=======
 test
 test_hot-fix
-
->>>>>>> hot-fix
